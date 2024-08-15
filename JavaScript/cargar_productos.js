@@ -6,7 +6,7 @@ let paginaActual = window.location.pathname;
 
 // Cargamos los productos segun la pagina visitada
 switch (paginaActual) {
-    case "/Views/index.html":
+    case "/docs/index.html":
         // Consumir la API para obtener los productos
         // fetch("../productos.json") 
         fetch("https://raw.githubusercontent.com/Haonter/Public_JSONS/main/productos.json") 
@@ -34,7 +34,7 @@ switch (paginaActual) {
             }
         });
     break;
-    case "/Views/Productos.html":
+    case "/docs/Productos.html":
         console.log("Estamos en la pagina de productos");
         // Consumir la API para obtener los productos
         // fetch("../productos.json") 
@@ -61,9 +61,9 @@ switch (paginaActual) {
     
     
     break;
-    case "/Views/producto.html":
+    case "/docs/producto.html":
         // Cargar el producto indicado mediante las querys en la URL
-        // Extraer los querys del URL /Views/productos.html?id=1
+        // Extraer los querys del URL /docs/productos.html?id=1
         let urlParams = new URLSearchParams(window.location.search);
 
         // Separar el id de los querys
@@ -97,7 +97,7 @@ switch (paginaActual) {
             });
         })
     break;
-    case "/Views/Carrito.html":
+    case "/docs/Carrito.html":
         let carrito = JSON.parse(localStorage.getItem("carrito"));
         let contenedor = document.getElementById("productos");
 

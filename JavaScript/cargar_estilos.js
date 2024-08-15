@@ -18,18 +18,18 @@ console.log(paginaActual);
 
 // Cargar estilos especificos de la pagina
 switch (paginaActual) {
-    case "/Views/index.html":
+    case "/docs/index.html":
         document.getElementById("contenedor_home").className = estilos.Home.contenedor_home;
         document.getElementById("titulo").className = estilos.Home.titulo;
         document.getElementById("subtitulo").className = estilos.Home.subtitulo;
         document.getElementById("populares").className = estilos.Productos.populares;
         break;
-    case "/Views/Productos.html":
+    case "/docs/Productos.html":
         document.getElementById("contenedor_productos").className = estilos.Productos.contenedor_productos;
         document.getElementById("titulo").className = estilos.Productos.titulo;
         document.getElementById("productos").className = estilos.Productos.populares;
         break;
-    case "/Views/producto.html":
+    case "/docs/producto.html":
         document.getElementById("producto_individual").className = estilos.ProductoIndividual.producto_individual;
         document.getElementById("contenedor_producto").className = estilos.ProductoIndividual.contenedor_producto;
         document.getElementById("img_producto").className = estilos.ProductoIndividual.img_producto;
@@ -39,7 +39,7 @@ switch (paginaActual) {
         document.getElementById("precio").className = estilos.ProductoIndividual.precio;
         document.getElementById("agregar").className = estilos.ProductoIndividual.agregar;
         break;
-    case "/Views/Carrito.html":
+    case "/docs/Carrito.html":
         document.getElementById("contenedor_carrito").className = estilos.Carrito.contenedor_carrito;
         document.getElementById("carrito").className = estilos.Carrito.carrito;
         document.getElementById("titulo").className = estilos.Carrito.titulo;
