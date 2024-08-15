@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mundo PC</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body>
+        <nav id="navBar">
+            <a href="./index.html">
+                <img id="logo" src="../Assets/logo.png" alt="Logo">
+            </a>
+            <div id="menu">
+                <a href="./Productos.html" id="menuLink1">Productos</a>
+                <a href="./Carrito.html" id="menuLink2">Carrito</a>
+            </div>
+        </nav>
+        
+        
+        <main id="carrito">
+            <section id="contenedor_carrito">
+                <h1 id="titulo">Carrito</h1>
+
+                <!-- Aqui vamos a mapear los productos recuperados del localStorage -->
+                <div id="productos">
+                </div>
+
+                <div id="total">
+                    <h2 id="parrafo_total">Total: $<span id="monto">0</span></h2>
+                    <button id="comprar">Comprar</button>
+                </div>
+            </section>
+        </main>
+        
+        
+        <footer id="footer">
+            <div id="menuf">
+                <a href="./Productos.html" id="menufLink1">Productos</a>
+                <a href="./Carrito.html" id="menufLink2">Carrito</a>
+            </div>
+        </footer>
+    </body>
+    <script type="module" src="../JavaScript/cargar_estilos.js"></script>
+    <script type="module" src="../JavaScript/cargar_productos.js" defer></script>
+</html>

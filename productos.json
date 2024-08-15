@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Mecánico RGB",
+        "descripcion": "Teclado mecánico con retroiluminación RGB y switches azules.",
+        "precio": 89.99,
+        "stock": 150,
+        "categoria": "perifericos",
+        "imagen": "https://img.phoenixtechnologies.es/img/5033d/57617/EG9A6R2I0M0H0P-0.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Ratón Inalámbrico",
+        "descripcion": "Ratón inalámbrico ergonómico con sensor óptico de alta precisión.",
+        "precio": 39.99,
+        "stock": 200,
+        "categoria": "perifericos",
+        "imagen": "https://m.media-amazon.com/images/I/611HDDWA3vL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Monitor 27\" 4K",
+        "descripcion": "Monitor de 27 pulgadas con resolución 4K UHD y tecnología IPS.",
+        "precio": 399.99,
+        "stock": 50,
+        "categoria": "perifericos",
+        "imagen": "https://m.media-amazon.com/images/I/41CyzB0TlhL.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Laptop Gaming 15\"",
+        "descripcion": "Laptop para gaming con procesador Intel i7 y tarjeta gráfica GTX 1660 Ti.",
+        "precio": 1299.99,
+        "stock": 30,
+        "categoria": "laptops",
+        "imagen": "https://i.ebayimg.com/images/g/UugAAOSwnZxkRtHt/s-l400.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Laptop Ultrabook 13\"",
+        "descripcion": "Ultrabook de 13 pulgadas con procesador Intel i5 y 8GB de RAM.",
+        "precio": 999.99,
+        "stock": 45,
+        "categoria": "laptops",
+        "imagen": "https://www.notebookcheck.org/uploads/tx_nbc2/1011957-4_19.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Impresora Láser Multifuncional",
+        "descripcion": "Impresora láser multifuncional con escáner y copiadora integrados.",
+        "precio": 249.99,
+        "stock": 60,
+        "categoria": "impresoras",
+        "imagen": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06368566.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Impresora de Inyección de Tinta",
+        "descripcion": "Impresora de inyección de tinta con conexión Wi-Fi y duplex automático.",
+        "precio": 129.99,
+        "stock": 80,
+        "categoria": "impresoras",
+        "imagen": "https://quecartucho.es/blog/wp-content/uploads/2021/12/Expression-Home-XP-2150-1024x576.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Placa Base ATX",
+        "descripcion": "Placa base ATX con chipset Z590, soporte para procesadores Intel de 10ª y 11ª generación.",
+        "precio": 199.99,
+        "stock": 40,
+        "categoria": "componentes de pc",
+        "imagen": "https://hardzone.es/app/uploads-hardzone.es/2018/03/Biostar-placas-base-e1634199349794.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Tarjeta Gráfica RTX 3070",
+        "descripcion": "Tarjeta gráfica NVIDIA RTX 3070 con 8GB de VRAM GDDR6.",
+        "precio": 599.99,
+        "stock": 25,
+        "categoria": "componentes de pc",
+        "imagen": "https://m.media-amazon.com/images/I/61+aEAi70wS.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Procesador AMD Ryzen 7 5800X",
+        "descripcion": "Procesador AMD Ryzen 7 con 8 núcleos y 16 hilos, ideal para gaming y tareas exigentes.",
+        "precio": 399.99,
+        "stock": 35,
+        "categoria": "componentes de pc",
+        "imagen": "https://m.media-amazon.com/images/I/61IIbwz-+ML._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Silla Gamer Ergonómica",
+        "descripcion": "Silla gamer ergonómica con soporte lumbar y reposabrazos ajustables.",
+        "precio": 249.99,
+        "stock": 70,
+        "categoria": "gamer",
+        "imagen": "https://versusperu.com/wp-content/uploads/2023/12/V30-N1.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Auriculares Gaming Inalámbricos",
+        "descripcion": "Auriculares gaming inalámbricos con sonido envolvente 7.1 y micrófono incorporado.",
+        "precio": 149.99,
+        "stock": 90,
+        "categoria": "gamer",
+        "imagen": "https://i.blogs.es/2c69a9/astroa50/450_1000.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Mousepad RGB",
+        "descripcion": "Mousepad con retroiluminación RGB y superficie de baja fricción para gaming.",
+        "precio": 29.99,
+        "stock": 120,
+        "categoria": "gamer",
+        "imagen": "https://m.media-amazon.com/images/I/51DffwNxH-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Disco Duro Externo 2TB",
+        "descripcion": "Disco duro externo portátil de 2TB con conexión USB 3.0.",
+        "precio": 89.99,
+        "stock": 100,
+        "categoria": "perifericos",
+        "imagen": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/0619659165208_1.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Cámara Web HD",
+        "descripcion": "Cámara web HD con micrófono incorporado, ideal para videoconferencias.",
+        "precio": 59.99,
+        "stock": 85,
+        "categoria": "perifericos",
+        "imagen": "https://coolboxpe.vtexassets.com/arquivos/ids/198188/W19_1.jpg?v=637787215819570000"
+    },
+    {
+        "id": 16,
+        "nombre": "Laptop Business 14\"",
+        "descripcion": "Laptop de 14 pulgadas diseñada para el uso profesional con procesador Intel i7 y 16GB de RAM.",
+        "precio": 1299.99,
+        "stock": 25,
+        "categoria": "laptops",
+        "imagen": "https://hightech-lb.com/wp-content/uploads/2023/04/lenovo-slim-7-1-1.webp"
+    },
+    {
+        "id": 17,
+        "nombre": "Impresora Fotográfica",
+        "descripcion": "Impresora fotográfica compacta con impresión de alta calidad y conectividad Wi-Fi.",
+        "precio": 179.99,
+        "stock": 50,
+        "categoria": "impresoras",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10733589/365-epson-expression-photo-xp-65-impresora-fotografica-color-wifi-duplex-mejor-precio.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Memoria RAM DDR4 16GB",
+        "descripcion": "Módulo de memoria RAM DDR4 de 16GB con velocidad de 3200MHz.",
+        "precio": 79.99,
+        "stock": 200,
+        "categoria": "componentes de pc",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/43/432664/1392-kingston-fury-beast-ddr4-3200-mhz-16gb-2x8gb-cl16.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "SSD NVMe 1TB",
+        "descripcion": "Unidad SSD NVMe de 1TB con velocidades de lectura/escritura ultrarrápidas.",
+        "precio": 149.99,
+        "stock": 100,
+        "categoria": "componentes de pc",
+        "imagen": "https://www.asusbymacman.es/28199-large_default/crucial-p3-plus-2tb-disco-ssd-nvme-pcie-40.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Control Xbox Series X / PC",
+        "descripcion": "Controlador inalámbrico para Xbox Series X y PC, con agarre texturizado.",
+        "precio": 59.99,
+        "stock": 95,
+        "categoria": "gamer",
+        "imagen": "https://images-americanas.b2w.io/produtos/4780357982/imagens/controle-xbox-s-fio-carbon-black-xbox-series-x-one-e-pc/4780357982_1_xlarge.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Laptop Convertible 2 en 1",
+        "descripcion": "Laptop convertible 2 en 1 con pantalla táctil de 14 pulgadas y lápiz digital incluido.",
+        "precio": 1099.99,
+        "stock": 20,
+        "categoria": "laptops",
+        "imagen": "https://img.pccomponentes.com/pcblog/5882/lg-gram-2-en-1.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Impresora Láser a Color",
+        "descripcion": "Impresora láser a color con conexión Ethernet y Wi-Fi, ideal para oficinas.",
+        "precio": 329.99,
+        "stock": 40,
+        "categoria": "impresoras",
+        "imagen": "https://consumentenbond-res.cloudinary.com/productvergelijker/AIO/ic09010-1054-00_00.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Placa Base Micro-ATX",
+        "descripcion": "Placa base Micro-ATX con chipset B550 y soporte para procesadores AMD Ryzen.",
+        "precio": 119.99,
+        "stock": 60,
+        "categoria": "componentes de pc",
+        "imagen": "https://www.vsgamers.es/thumbnails/product_gallery_large/uploads/products/asus-gaming/placas-base/z690/placa-base-asus-rog-strix-z590-i-gaming-wifi-intel-z690-lga-1200-mini-itx/galeria/placa-base-asus-rog-strix-z590-i-gaming-wifi-intel-z690-lga-1200-mini-itx-galeria-2.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Cascos Gaming con Micrófono",
+        "descripcion": "Cascos gaming con micrófono retráctil y sonido envolvente 7.1.",
+        "precio": 99.99,
+        "stock": 75,
+        "categoria": "gamer",
+        "imagen": "https://img.pccomponentes.com/articles/33/336005/1231-logitech-g733-lightspeed-rgb-auriculares-wireless-blancos-especificaciones.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Tablet 10\" Wi-Fi",
+        "descripcion": "Tablet de 10 pulgadas con conexión Wi-Fi, 64GB de almacenamiento y Android.",
+        "precio": 199.99,
+        "stock": 85,
+        "categoria": "perifericos",
+        "imagen": "https://static.carrefour.es/hd_510x_/crs/cdn_static/catalog/hd/100803_00_1.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Mouse Ergonomico Vertical",
+        "descripcion": "Mouse ergonómico vertical con conexión Bluetooth y sensor óptico.",
+        "precio": 49.99,
+        "stock": 90,
+        "categoria": "perifericos",
+        "imagen": "https://m.media-amazon.com/images/I/51j0zidX0VL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Laptop para miños",
+        "descripcion": "Laptop económica de 14 pulgadas ideal para miños.",
+        "precio": 79.99,
+        "stock": 55,
+        "categoria": "laptops",
+        "imagen": "https://m.media-amazon.com/images/I/6122DADZAHL.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Impresora Térmica de Etiquetas",
+        "descripcion": "Impresora térmica compacta para etiquetas y códigos de barras.",
+        "precio": 149.99,
+        "stock": 30,
+        "categoria": "impresoras",
+        "imagen": "https://www.fqingenieria.com/img/474317/foto.png"
+    },
+    {
+        "id": 29,
+        "nombre": "Refrigeración Líquida CPU",
+        "descripcion": "Kit de refrigeración líquida para CPU con radiador de 240mm y iluminación RGB.",
+        "precio": 119.99,
+        "stock": 50,
+        "categoria": "componentes de pc",
+        "imagen": "https://abysmgaming.com/wp-content/uploads/2019/12/ref-liquida-120-b.jpg"
+    },
+    {
+        "id": 30,
+        "nombre": "Teclado Gamer Mecánico",
+        "descripcion": "Teclado mecánico para gaming con switches rojos y retroiluminación RGB.",
+        "precio": 109.99,
+        "stock": 100,
+        "categoria": "gamer",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/13/138980/1976-logitech-g413-teclado-mecanico-gaming-comprar.jpg"
+    },
+    {
+        "id": 31,
+        "nombre": "Disco Duro Interno 4TB",
+        "descripcion": "Disco duro interno de 4TB con conexión SATA y 7200 RPM.",
+        "precio": 129.99,
+        "stock": 70,
+        "categoria": "componentes de pc",
+        "imagen": "https://m.media-amazon.com/images/I/716p0BCqo9L.jpg"
+    },
+    {
+        "id": 32,
+        "nombre": "Monitor Gaming 24\" 144Hz",
+        "descripcion": "Monitor para gaming de 24 pulgadas con frecuencia de actualización de 144Hz y resolución Full HD.",
+        "precio": 299.99,
+        "stock": 40,
+        "categoria": "perifericos",
+        "imagen": "https://www.lg.com/content/dam/channel/wcms/es/images/monitores/24gn600-b_aeu_eees_es_c/24GN600_1.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Controlador PS5 DualSense",
+        "descripcion": "Controlador inalámbrico para PS5 con respuesta háptica y gatillos adaptativos.",
+        "precio": 69.99,
+        "stock": 80,
+        "categoria": "gamer",
+        "imagen": "https://www.aki.com.ec/wp-content/uploads/2024/05/711719541363-updtimgs-01-2024.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Router Wi-Fi 6",
+        "descripcion": "Router Wi-Fi 6 de alto rendimiento con cobertura de hasta 3000 pies cuadrados.",
+        "precio": 199.99,
+        "stock": 65,
+        "categoria": "perifericos",
+        "imagen": "https://static3.webx.pk/files/19643/Images/h525-19643-0-020722102318186.png"
+    },
+    {
+        "id": 35,
+        "nombre": "Fuente de Alimentación 650W",
+        "descripcion": "Fuente de alimentación ATX de 650W con certificación 80 PLUS Gold.",
+        "precio": 89.99,
+        "stock": 45,
+        "categoria": "componentes de pc",
+        "imagen": "https://m.media-amazon.com/images/I/81eLlIQ5PsL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 36,
+        "nombre": "Silla Gamer Profesional",
+        "descripcion": "Silla gamer profesional con soporte lumbar ajustable y reclinación de 180 grados.",
+        "precio": 299.99,
+        "stock": 40,
+        "categoria": "gamer",
+        "imagen": "https://static.sillaoficina365.es/29603-product_list/silla-gamer-profesional-ergohuman-gaming-100-ajustable.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Memoria RAM DDR4 32GB",
+        "descripcion": "Kit de memoria RAM DDR4 de 32GB (2x16GB) con velocidad de 3600MHz.",
+        "precio": 149.99,
+        "stock": 50,
+        "categoria": "componentes de pc",
+        "imagen": "https://www.tradeinn.com/f/13878/138781581/corsair-memoria-ram-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200mhz.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Micrófono USB para Streaming",
+        "descripcion": "Micrófono USB de alta calidad, ideal para streaming y grabaciones.",
+        "precio": 99.99,
+        "stock": 85,
+        "categoria": "perifericos",
+        "imagen": "https://img.pccomponentes.com/articles/79/793720/1144-hyperx-quadcast-microfono-de-condensador-rojo.jpg"
+    },
+    {
+        "id": 39,
+        "nombre": "Impresora 3D",
+        "descripcion": "Impresora 3D con tecnología FDM, ideal para la creación de prototipos y piezas personalizadas.",
+        "precio": 499.99,
+        "stock": 20,
+        "categoria": "impresoras",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1081/10811814/1352-creality-cr-m4-impresora-3d.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Teclado Compacto Bluetooth",
+        "descripcion": "Teclado compacto inalámbrico con conexión Bluetooth y batería recargable.",
+        "precio": 49.99,
+        "stock": 70,
+        "categoria": "perifericos",
+        "imagen": "https://www.hp.com/es-es/shop/Html/Merch/Images/c08319824_1750x1285.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "Tarjeta de Sonido Externa",
+        "descripcion": "Tarjeta de sonido externa USB con soporte para audio de alta resolución.",
+        "precio": 79.99,
+        "stock": 60,
+        "categoria": "componentes de pc",
+        "imagen": "https://www.newhomepc.net/assets/images/products/6d/95451.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Laptop Creativo 15\"",
+        "descripcion": "Laptop de 15 pulgadas diseñada para creadores de contenido, con pantalla 4K y tarjeta gráfica dedicada.",
+        "precio": 1899.99,
+        "stock": 15,
+        "categoria": "laptops",
+        "imagen": "https://maxitec.vteximg.com.br/arquivos/ids/191297-500-500/maxitec-acer-laptop-acer-aspire-core-i3-a515-54-30t8-es-1.jpg?v=638304375229370000"
+    },
+    {
+        "id": 43,
+        "nombre": "Monitor Curvo 34\" UltraWide",
+        "descripcion": "Monitor curvo de 34 pulgadas UltraWide con resolución QHD y relación de aspecto 21:9.",
+        "precio": 599.99,
+        "stock": 25,
+        "categoria": "perifericos",
+        "imagen": "https://thumb.pccomponentes.com/w-530-530/articles/1073/10734319/1631-hp-omen-34c-34-wqhd-165hz-freesync-premium-curva-64d9a754-5a88-464c-97a6-ca147a193bf3.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Router Gaming",
+        "descripcion": "Router gaming de alto rendimiento con prioridad de tráfico y baja latencia.",
+        "precio": 249.99,
+        "stock": 30,
+        "categoria": "perifericos",
+        "imagen": "https://ddtech.mx/assets/uploads/fae087c2c0f12b4b0f0ec0b2ae59488a.jpg"
+    },
+    {
+        "id": 45,
+        "nombre": "Cámara IP de Seguridad",
+        "descripcion": "Cámara IP de seguridad con visión nocturna y detección de movimiento.",
+        "precio": 89.99,
+        "stock": 80,
+        "categoria": "perifericos",
+        "imagen": "https://www.latiendainteligente.es/wp-content/uploads/2024/03/Camara-de-Seguridad-IP-8MPx-Lente-2.8mm-PoE-Audio-IR-30m-Luz-Blanca-HIKVISION-KATIMA.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "Kit de Iluminación RGB",
+        "descripcion": "Kit de iluminación RGB para PC, incluye tiras LED y control remoto.",
+        "precio": 39.99,
+        "stock": 95,
+        "categoria": "gamer",
+        "imagen": "https://www.obramat.es/pub/media/catalog/product/e/a/5/3/kit_tira_led_v_m_w_m_luz_rgb_ip_10522211_picture.jpeg?width=700&height=700&canvas=400:400&quality=80&bg-color=255,255,255&fit=bounds"
+    },
+    {
+        "id": 47,
+        "nombre": "Docking Station USB-C",
+        "descripcion": "Docking station USB-C con múltiples puertos para laptop, incluyendo HDMI y Ethernet.",
+        "precio": 129.99,
+        "stock": 40,
+        "categoria": "perifericos",
+        "imagen": "https://m.media-amazon.com/images/I/71czw12TGJL.jpg"
+    },
+    {
+        "id": 48,
+        "nombre": "Sistema de Sonido 5.1",
+        "descripcion": "Sistema de sonido 5.1 con altavoces envolventes y subwoofer para PC.",
+        "precio": 199.99,
+        "stock": 30,
+        "categoria": "perifericos",
+        "imagen": "https://www.worten.es/i/584fa3b6087fcd7d7669455911fe52f885459357"
+    },
+    {
+        "id": 49,
+        "nombre": "Laptop para Edición de Video",
+        "descripcion": "Laptop de alto rendimiento con procesador Intel i9 y tarjeta gráfica RTX 3080, ideal para edición de video.",
+        "precio": 2999.99,
+        "stock": 10,
+        "categoria": "laptops",
+        "imagen": "https://graffica.info/wp-content/uploads/2021/03/71lLXV9filL._AC_SL1200_-1024x771.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Impresora de Sublimación",
+        "descripcion": "Impresora de sublimación para la creación de productos personalizados como tazas y camisetas.",
+        "precio": 399.99,
+        "stock": 25,
+        "categoria": "impresoras",
+        "imagen": "https://mediaserver.goepson.com/ImConvServlet/imconv/f1b90025e879d89824df80d950532289ee44656a/1200Wx1200H?use=banner&hybrisId=B2C&assetDescr=SC-F9470H_headon_690x460"
+    }
+]
